@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-waffle/static/css/main.0550971a.css",
+    "main.js": "/project-waffle/static/js/main.b2f6d276.js",
+    "index.html": "/project-waffle/index.html",
+    "main.0550971a.css.map": "/project-waffle/static/css/main.0550971a.css.map",
+    "main.b2f6d276.js.map": "/project-waffle/static/js/main.b2f6d276.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0550971a.css",
+    "static/js/main.b2f6d276.js"
+  ]
+}
