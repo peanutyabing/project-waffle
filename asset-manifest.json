@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/project-waffle/static/css/main.245d9309.css",
-    "main.js": "/project-waffle/static/js/main.37c88561.js",
+    "main.css": "/project-waffle/static/css/main.604d20b0.css",
+    "main.js": "/project-waffle/static/js/main.cafcc1c3.js",
     "index.html": "/project-waffle/index.html",
-    "main.245d9309.css.map": "/project-waffle/static/css/main.245d9309.css.map",
-    "main.37c88561.js.map": "/project-waffle/static/js/main.37c88561.js.map"
+    "main.604d20b0.css.map": "/project-waffle/static/css/main.604d20b0.css.map",
+    "main.cafcc1c3.js.map": "/project-waffle/static/js/main.cafcc1c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.245d9309.css",
-    "static/js/main.37c88561.js"
+    "static/css/main.604d20b0.css",
+    "static/js/main.cafcc1c3.js"
   ]
 }
