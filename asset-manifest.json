@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/project-waffle/static/css/main.a0e17773.css",
-    "main.js": "/project-waffle/static/js/main.7b607d89.js",
+    "main.css": "/project-waffle/static/css/main.5e26a1e7.css",
+    "main.js": "/project-waffle/static/js/main.2ec1060c.js",
     "static/media/waffle-oney-onegy-example.png": "/project-waffle/static/media/waffle-oney-onegy-example.a95dc24d2f7bc6c57b57.png",
     "static/media/waffle-onegn-onegy-example.png": "/project-waffle/static/media/waffle-onegn-onegy-example.f977049b8caf9feffc3b.png",
     "static/media/waffle-junction-example.png": "/project-waffle/static/media/waffle-junction-example.75f686f6c7a3c8269c24.png",
     "static/media/waffle-row-example.png": "/project-waffle/static/media/waffle-row-example.baabff8ba99e82abe60b.png",
     "index.html": "/project-waffle/index.html",
-    "main.a0e17773.css.map": "/project-waffle/static/css/main.a0e17773.css.map",
-    "main.7b607d89.js.map": "/project-waffle/static/js/main.7b607d89.js.map"
+    "main.5e26a1e7.css.map": "/project-waffle/static/css/main.5e26a1e7.css.map",
+    "main.2ec1060c.js.map": "/project-waffle/static/js/main.2ec1060c.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0e17773.css",
-    "static/js/main.7b607d89.js"
+    "static/css/main.5e26a1e7.css",
+    "static/js/main.2ec1060c.js"
   ]
 }
